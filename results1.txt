@@ -1,0 +1,389 @@
+Movie Ratings of the User: 73 (PEARSON CORRELATION)
+----------------------------------------------------
+
+'Heat (1995)' 5.0
+'Casino (1995)' 3.0
+'Sense and Sensibility (1995)' 4.0
+'Leaving Las Vegas (1995)' 3.0
+'12 Monkeys (Twelve Monkeys) (1995)' 3.0
+'Clueless (1995)' 4.0
+'To Die For (1995)' 4.0
+'Seven (a.k.a. Se7en) (1995)' 4.0
+'Usual Suspects, The (1995)' 5.0
+'Bottle Rocket (1996)' 4.0
+'Taxi Driver (1976)' 4.0
+'Rumble in the Bronx (Hont faan kui) (1995)' 4.0
+'Apollo 13 (1995)' 4.0
+'Crumb (1994)' 3.0
+'Clerks (1994)' 5.0
+'Ed Wood (1994)' 4.0
+'Hoop Dreams (1994)' 5.0
+'Star Wars: Episode IV - A New Hope (a.k.a. Star Wars) (1977)' 5.0
+'Little Princess, A (1995)' 4.0
+"Nobody's Fool (1994)" 3.0
+'Pulp Fiction (1994)' 4.0
+'Quiz Show (1994)' 4.0
+'Shawshank Redemption, The (1994)' 4.0
+'Shallow Grave (1994)' 4.0
+'Adventures of Priscilla, Queen of the Desert, The (1994)' 4.0
+'Backbeat (1993)' 3.0
+'Bullets Over Broadway (1994)' 3.0
+'Lion King, The (1994)' 4.0
+'Red Rock West (1992)' 3.0
+'Dave (1993)' 4.0
+'Fearless (1993)' 3.0
+'Fugitive, The (1993)' 3.0
+'Searching for Bobby Fischer (1993)' 5.0
+'Short Cuts (1993)' 3.0
+'Blade Runner (1982)' 5.0
+'Aladdin (1992)' 5.0
+'Silence of the Lambs, The (1991)' 5.0
+'Snow White and the Seven Dwarfs (1937)' 4.0
+'Pinocchio (1940)' 4.0
+'Wild Bunch, The (1969)' 4.0
+'Fargo (1996)' 4.0
+'Primal Fear (1996)' 4.0
+'Kids in the Hall: Brain Candy (1996)' 5.0
+'Some Folks Call It a Sling Blade (1993)' 4.0
+'Wallace & Gromit: The Best of Aardman Animation (1996)' 4.0
+'Wallace & Gromit: A Close Shave (1995)' 4.0
+'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)' 4.0
+'Trainspotting (1996)' 4.0
+'Frighteners, The (1996)' 3.0
+'Godfather, The (1972)' 4.0
+'Supercop (Police Story 3: Supercop) (Jing cha gu shi III: Chao ji jing cha) (1992)' 4.0
+'Bound (1996)' 4.0
+"Singin' in the Rain (1952)" 5.0
+"Breakfast at Tiffany's (1961)" 4.0
+'Vertigo (1958)' 4.0
+'Rear Window (1954)' 5.0
+'North by Northwest (1959)' 5.0
+'Some Like It Hot (1959)' 4.0
+'Charade (1963)' 5.0
+'Maltese Falcon, The (1941)' 4.0
+'My Fair Lady (1964)' 4.0
+'Meet Me in St. Louis (1944)' 4.0
+'Wizard of Oz, The (1939)' 5.0
+'Gone with the Wind (1939)' 5.0
+'My Favorite Year (1982)' 5.0
+'Notorious (1946)' 5.0
+'Spellbound (1945)' 3.0
+'To Catch a Thief (1955)' 4.0
+'Adventures of Robin Hood, The (1938)' 4.0
+'Lost Horizon (1937)' 4.0
+'His Girl Friday (1940)' 4.0
+'39 Steps, The (1935)' 4.0
+'Night of the Living Dead (1968)' 4.0
+'African Queen, The (1951)' 4.0
+'Big Night (1996)' 4.0
+'Mary Poppins (1964)' 4.0
+'Die Hard (1988)' 5.0
+'That Thing You Do! (1996)' 3.0
+'Swingers (1996)' 3.0
+'Platoon (1986)' 4.0
+'Crying Game, The (1992)' 4.0
+'Glengarry Glen Ross (1992)' 3.0
+'Christmas Carol, A (1938)' 4.0
+'People vs. Larry Flynt, The (1996)' 4.0
+'Abyss, The (1989)' 4.0
+'When We Were Kings (1996)' 5.0
+'Wallace & Gromit: The Wrong Trousers (1993)' 4.0
+'Bob Roberts (1992)' 3.0
+'Grifters, The (1990)' 3.0
+'Sex, Lies, and Videotape (1989)' 3.0
+'Star Wars: Episode V - The Empire Strikes Back (1980)' 5.0
+'Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)' 5.0
+'Aliens (1986)' 5.0
+'Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)' 4.0
+'Withnail & I (1987)' 3.0
+'Lawrence of Arabia (1962)' 5.0
+'To Kill a Mockingbird (1962)' 5.0
+'Apocalypse Now (1979)' 4.0
+'Goodfellas (1990)' 4.0
+'Army of Darkness (1993)' 4.0
+'Big Blue, The (Grand bleu, Le) (1988)' 3.0
+'Killer, The (Die xue shuang xiong) (1989)' 5.0
+'Godfather: Part II, The (1974)' 4.0
+'Henry V (1989)' 4.0
+'Amadeus (1984)' 4.0
+'Quiet Man, The (1952)' 4.0
+'Right Stuff, The (1983)' 4.0
+'Boat, The (Das Boot) (1981)' 5.0
+'Dead Poets Society (1989)' 3.0
+'Femme Nikita, La (Nikita) (1990)' 5.0
+'Bridge on the River Kwai, The (1957)' 4.0
+'Duck Soup (1933)' 5.0
+'M (1931)' 3.0
+'Evil Dead II (Dead by Dawn) (1987)' 4.0
+'Great Escape, The (1963)' 4.0
+'Pump Up the Volume (1990)' 3.0
+'Patton (1970)' 5.0
+'Cool Hand Luke (1967)' 4.0
+'Young Frankenstein (1974)' 5.0
+'Gandhi (1982)' 4.0
+'Pink Floyd: The Wall (1982)' 3.0
+'Butch Cassidy and the Sundance Kid (1969)' 5.0
+'When Harry Met Sally... (1989)' 4.0
+'Bride of Frankenstein (1935)' 4.0
+'Carrie (1976)' 3.0
+'Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)' 4.0
+'Omen, The (1976)' 4.0
+'Star Trek: First Contact (1996)' 4.0
+'Shine (1996)' 4.0
+'Die Hard 2 (1990)' 4.0
+'Star Trek II: The Wrath of Khan (1982)' 4.0
+'Under Siege (1992)' 2.0
+'Jerry Maguire (1996)' 3.0
+'Raising Arizona (1987)' 5.0
+'Scream (1996)' 3.0
+'Walkabout (1971)' 3.0
+'Daytrippers, The (1996)' 3.0
+'Traveller (1997)' 3.0
+'Austin Powers: International Man of Mystery (1997)' 5.0
+'Fifth Element, The (1997)' 4.0
+'Contact (1997)' 4.0
+'Kull the Conqueror (1997)' 1.0
+"Ulee's Gold (1997)" 3.0
+'Chasing Amy (1997)' 4.0
+'Full Monty, The (1997)' 4.0
+'Boogie Nights (1997)' 5.0
+'Tomorrow Never Dies (1997)' 3.0
+'Jackie Brown (1997)' 3.0
+'Half Baked (1998)' 4.0
+'Spanish Prisoner, The (1997)' 4.0
+'Out of Sight (1998)' 5.0
+'Pi (1998)' 4.0
+"There's Something About Mary (1998)" 4.0
+'Midnight Cowboy (1969)' 3.0
+'Rocky (1976)' 4.0
+'Last Emperor, The (1987)' 5.0
+'Breakfast Club, The (1985)' 4.0
+"Nightmare on Elm Street 2: Freddy's Revenge, A (1985)" 3.0
+'Poltergeist (1982)' 3.0
+'Lethal Weapon (1987)' 4.0
+'Metropolis (1927)' 4.0
+'Bambi (1942)' 4.0
+'Dangerous Liaisons (1988)' 3.0
+'Last Temptation of Christ, The (1988)' 3.0
+'Saving Private Ryan (1998)' 4.0
+'Roger & Me (1989)' 4.0
+'Jungle Book, The (1967)' 4.0
+'Little Mermaid, The (1989)' 4.0
+'One Hundred and One Dalmatians (a.k.a. 101 Dalmatians) (1961)' 3.0
+'L.A. Story (1991)' 5.0
+'Watership Down (1978)' 3.0
+'Secret of NIMH, The (1982)' 3.0
+'Gods Must Be Crazy, The (1980)' 4.0
+'Slums of Beverly Hills, The (1998)' 2.0
+'Blade (1998)' 4.0
+'Next Stop Wonderland (1998)' 4.0
+'Beetlejuice (1988)' 4.0
+'Marnie (1964)' 3.0
+'Strangers on a Train (1951)' 4.0
+'Untouchables, The (1987)' 4.0
+'Lady Vanishes, The (1938)' 4.0
+'Sabotage (1936)' 3.0
+'Few Good Men, A (1992)' 3.0
+'Pecker (1998)' 4.0
+'Thing, The (1982)' 5.0
+'Edward Scissorhands (1990)' 4.0
+'Pleasantville (1998)' 3.0
+'American History X (1998)' 3.0
+'Gods and Monsters (1998)' 4.0
+'Elizabeth (1998)' 4.0
+'Big Chill, The (1983)' 3.0
+'Rugrats Movie, The (1998)' 4.0
+"Bug's Life, A (1998)" 5.0
+'Waking Ned Devine (1998)' 3.0
+'King Kong (1933)' 5.0
+'Babe: Pig in the City (1998)' 4.0
+'Little Voice (1998)' 3.0
+'Rushmore (1998)' 5.0
+'Shakespeare in Love (1998)' 3.0
+'Miracle on 34th Street (1947)' 4.0
+'Thin Red Line, The (1998)' 2.0
+'Fly, The (1986)' 4.0
+'Name of the Rose, The (Der Name der Rose) (1986)' 3.0
+'Planet of the Apes (1968)' 4.0
+'Escape from the Planet of the Apes (1971)' 3.0
+'Lock, Stock & Two Smoking Barrels (1998)' 4.0
+'King and I, The (1956)' 4.0
+'Matrix, The (1999)' 5.0
+'Go (1999)' 3.0
+'Election (1999)' 4.0
+'Wolf Man, The (1941)' 4.0
+'Invasion of the Body Snatchers (1956)' 4.0
+'Tarzan (1999)' 4.0
+'Run Lola Run (Lola rennt) (1998)' 3.0
+'South Park: Bigger, Longer and Uncut (1999)' 4.0
+'American Pie (1999)' 3.0
+'Ghostbusters (a.k.a. Ghost Busters) (1984)' 4.0
+'Twin Falls Idaho (1999)' 4.0
+'Spartacus (1960)' 4.0
+'Lolita (1962)' 5.0
+'Little Shop of Horrors (1986)' 4.0
+'Dick (1999)' 3.0
+'Iron Giant, The (1999)' 4.0
+'Sixth Sense, The (1999)' 4.0
+"Monty Python's And Now for Something Completely Different (1971)" 4.0
+'Airplane! (1980)' 5.0
+'Christmas Story, A (1983)' 4.0
+'3 Days of the Condor (a.k.a. Three Days of the Condor) (1975)' 4.0
+'American Beauty (1999)' 4.0
+'For Love of the Game (1999)' 3.0
+"Hard Day's Night, A (1964)" 4.0
+'Deliverance (1972)' 3.0
+'Excalibur (1981)' 3.0
+'Operation Condor 2 (Armour of God) (Long xiong hu di) (1987)' 4.0
+'Three Kings (1999)' 4.0
+'Body Heat (1981)' 4.0
+"Ferris Bueller's Day Off (1986)" 4.0
+'Hairspray (1988)' 4.0
+'Goldfinger (1964)' 4.0
+'Dr. No (1962)' 4.0
+'Sydney (Hard Eight) (1996)' 3.0
+'Fight Club (1999)' 5.0
+'Three to Tango (1999)' 3.0
+'Who Framed Roger Rabbit? (1988)' 4.0
+'Insider, The (1999)' 4.0
+'American Movie: The Making of Northwestern (1999)' 2.0
+'Re-Animator (1985)' 4.0
+'Drugstore Cowboy (1989)' 4.0
+'General, The (1927)' 4.0
+'Little Big Man (1970)' 3.0
+'Meatballs (1979)' 3.0
+'Midnight Run (1988)' 4.0
+'Fisher King, The (1991)' 2.0
+'Toy Story 2 (1999)' 5.0
+'Flawless (1999)' 2.0
+'Green Mile, The (1999)' 4.0
+'Easy Rider (1969)' 3.0
+'Presidio, The (1988)' 3.0
+'Boys from Brazil, The (1978)' 3.0
+'Fast Times at Ridgemont High (1982)' 4.0
+'Batman: Mask of the Phantasm (1993)' 5.0
+'Malcolm X (1992)' 4.0
+"Wayne's World (1992)" 4.0
+'League of Their Own, A (1992)' 4.0
+'Boondock Saints, The (2000)' 4.0
+'Birdy (1984)' 3.0
+'Breaking Away (1979)' 4.0
+'Hoosiers (1986)' 5.0
+'Dog Day Afternoon (1975)' 4.0
+'American Graffiti (1973)' 3.0
+'Searchers, The (1956)' 3.0
+'JFK (1991)' 3.0
+'Muppet Movie, The (1979)' 4.0
+'Erin Brockovich (2000)' 3.0
+'Animal House (1978)' 4.0
+"She's Gotta Have It (1986)" 2.0
+'Do the Right Thing (1989)' 4.0
+'Lord of the Flies (1963)' 3.0
+'Close Encounters of the Third Kind (1977)' 4.0
+'My Chauffeur (1986)' 3.0
+'Misery (1990)' 3.0
+'Bachelor Party (1984)' 3.0
+'Keeping the Faith (2000)' 3.0
+'Cabaret (1972)' 4.0
+'Caddyshack (1980)' 4.0
+'Hidden, The (1987)' 4.0
+"Pee-wee's Big Adventure (1985)" 4.0
+'Shanghai Noon (2000)' 5.0
+'Blazing Saddles (1974)' 5.0
+'Decline of Western Civilization Part II: The Metal Years, The (1988)' 3.0
+'Mad Max (1979)' 5.0
+'Road Warrior, The (Mad Max 2) (1981)' 5.0
+'Assault on Precinct 13 (1976)' 3.0
+'Kentucky Fried Movie, The (1977)' 4.0
+'X-Men (2000)' 4.0
+'Tampopo (1985)' 5.0
+'Naked Gun: From the Files of Police Squad!, The (1988)' 3.0
+'Dancer in the Dark (2000)' 1.0
+'Invisible Man, The (1933)' 4.0
+'Time Machine, The (1960)' 5.0
+'Legend of Drunken Master, The (Jui Kuen II) (1994)' 4.0
+'Diamonds Are Forever (1971)' 4.0
+============================================================================
+
+Top 5 (or less) Movie Recommendations:
+----------------------------------------
+
+'Restoration (1995)'
+'Postman, The (Postino, Il) (1994)'
+'Bio-Dome (1996)'
+"Things to Do in Denver When You're Dead (1995)"
+"St. Elmo's Fire (1985)"
+============================================================================
+
+
+
+
+
+Movie Ratings of the User: 12 (COSINE - SIMILARITY)
+----------------------------------------------------
+
+'Father of the Bride Part II (1995)' 3.0
+'Interview with the Vampire: The Vampire Chronicles (1994)' 3.0
+'Adventures of Priscilla, Queen of the Desert, The (1994)' 4.0
+'Firm, The (1993)' 3.0
+'Twister (1996)' 4.0
+'Independence Day (a.k.a. ID4) (1996)' 5.0
+'Fox and the Hound, The (1981)' 3.0
+'Abyss, The (1989)' 4.0
+'Birds, The (1963)' 4.0
+'Mars Attacks! (1996)' 4.0
+'Meet Joe Black (1998)' 3.0
+'Desperately Seeking Susan (1985)' 3.0
+'Clue (1985)' 2.0
+'Patch Adams (1998)' 4.0
+'Star Wars: Episode I - The Phantom Menace (1999)' 4.0
+'Thirteenth Floor, The (1999)' 3.0
+'Eyes Wide Shut (1999)' 3.0
+'Sixth Sense, The (1999)' 5.0
+'Stigmata (1999)' 3.0
+'American Beauty (1999)' 4.0
+"Boys Don't Cry (1999)" 3.0
+'Fight Club (1999)' 4.0
+'Bringing Out the Dead (1999)' 4.0
+'Who Framed Roger Rabbit? (1988)' 4.0
+'House on Haunted Hill (1999)' 3.0
+'Being John Malkovich (1999)' 4.0
+'Spaceballs (1987)' 3.0
+'Dogma (1999)' 3.0
+'Messenger: The Story of Joan of Arc, The (1999)' 3.0
+'Sleepy Hollow (1999)' 3.0
+'World Is Not Enough, The (1999)' 4.0
+'Flawless (1999)' 3.0
+'Green Mile, The (1999)' 5.0
+'Anna and the King (1999)' 3.0
+'Bicentennial Man (1999)' 3.0
+'Galaxy Quest (1999)' 4.0
+'Talented Mr. Ripley, The (1999)' 3.0
+'Girl, Interrupted (1999)' 4.0
+'Eye of the Beholder (1999)' 2.0
+'Tigger Movie, The (2000)' 2.0
+'Pitch Black (2000)' 3.0
+'Whole Nine Yards, The (2000)' 4.0
+'Mission to Mars (2000)' 3.0
+'Ninth Gate, The (1999)' 4.0
+'Romeo Must Die (2000)' 3.0
+'Waking the Dead (2000)' 4.0
+'Caddyshack (1980)' 4.0
+'Gladiator (2000)' 4.0
+'Mr. Mom (1983)' 3.0
+'Battlefield Earth (2000)' 2.0
+"Pee-wee's Big Adventure (1985)" 2.0
+'Shanghai Noon (2000)' 4.0
+'Titan A.E. (2000)' 4.0
+'Perfect Storm, The (2000)' 3.0
+============================================================================
+
+Top 5 (or less) Movie Recommendations:
+----------------------------------------
+
+'Weird Science (1985)'
+'Watership Down (1978)'
+'Legend (1985)'
+"Rosemary's Baby (1968)"
+'Apollo 13 (1995)'
+============================================================================
