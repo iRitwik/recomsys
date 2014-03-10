@@ -1,4 +1,4 @@
 recomsys
 ========
 
-All code which I write working for my project on Recommender Systems
+All code which I write working for my B.Tech. project
